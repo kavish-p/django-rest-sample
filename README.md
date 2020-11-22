@@ -1,0 +1,1 @@
+A example of API build using Django REST Framework (DRF) and implementing several aspects of DRF including serialization, request and response handling, class-based views, authentication, permissions, viewsets, routers and so on. 
